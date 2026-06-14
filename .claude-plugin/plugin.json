@@ -1,0 +1,7 @@
+{
+  "name": "modelharness",
+  "version": "0.1.0",
+  "description": "Fable 5 behavioral patterns as a harness for Opus 4.8: grounded progress, self-verification loops, delegation triggers, file-based memory, autonomy calibration. Zero-config: installs a SessionStart hook; skills auto-trigger.",
+  "author": { "name": "vitaliikapliuk" },
+  "hooks": "./hooks/hooks.json"
+}

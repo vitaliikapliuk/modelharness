@@ -1,0 +1,12 @@
+.idea/
+.claude/
+.pytest_cache/
+__pycache__/
+bench/results/runs/
+bench/results/*.csv
+!bench/results/results-v*.csv
+bench/results/*.log
+.superpowers/
+
+# Internal planning/spec artifacts (kept local, not for the public repo)
+docs/superpowers/

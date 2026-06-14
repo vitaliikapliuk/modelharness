@@ -1,0 +1,11 @@
+{
+  "name": "modelharness",
+  "owner": { "name": "vitaliikapliuk" },
+  "plugins": [
+    {
+      "name": "modelharness",
+      "source": "./",
+      "description": "Make Opus 4.8 behave like Fable 5: documented behavioral patterns as a zero-config Claude Code plugin."
+    }
+  ]
+}

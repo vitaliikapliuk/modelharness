@@ -1,0 +1,5 @@
+2026-06-01T10:00:00Z GET /api/users 200 153ms
+2026-06-01T10:00:01Z GET /api/users 500 950ms
+2026-06-01T10:00:02Z POST /api/orders 201 87ms
+garbage line
+2026-06-01T10:00:03Z GET /api/users 200 120ms
